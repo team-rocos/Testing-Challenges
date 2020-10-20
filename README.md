@@ -1,4 +1,5 @@
 # Testing Challenges
+We have 2 testing challenges.
 
 ## Rocos Platform UI Testing
 Rocos.io is a SaaS platform, it has a page to allow user to signup with a given invitation code. The signup page validates user inputs before sending to the backend api. The signup page is located at https://portal.rocos.io/signup. 
